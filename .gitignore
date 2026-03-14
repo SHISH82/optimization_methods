@@ -1,0 +1,19 @@
+# CMake build artifacts
+build/
+
+# Project notes (not for public repo)
+CLAUDE.md
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Compiled binaries
+*.o
+*.out
+
+# Duplicate image at root (canonical location: images/)
+unimodality.png
